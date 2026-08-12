@@ -98,6 +98,8 @@ The pictured enclosure was printed on an Ender 3 V2 using black PLA, a 0.2 mm la
   <img src="media/3d-printed-parts.png" alt="Exploded view of the six printed enclosure parts" width="650">
 </p>
 
+The STL files were adapted from this [source](https://www.hackster.io/Gokux/smart-wi-fi-epaper-scoreboard-5989b9), all credits to the original author. 
+
 ## Assemble the device
 
 Read the complete sequence before connecting the battery or applying power.
@@ -262,7 +264,7 @@ Under **Settings -> Presentation**, select:
 - **Black & White (1-bit)**.
 - **Landscape** orientation.
 - **Classic Font Family**.
-- **Regular Text Scale**.
+- **Large (or X-Large) Text Scale**.
 
 ### 4. Protect the custom firmware
 
